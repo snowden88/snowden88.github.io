@@ -23,9 +23,4 @@ $(document).ready(function(){
         $('.pricing > div > div:nth-of-type(3)').insertAfter($('.pricing > div > div:nth-of-type(1)'));
     }
 
-    $('#animated-thumbnails').lightGallery({
-      thumbnail:true,
-      animateThumb: false,
-      showThumbByDefault: false
-    });
 });
