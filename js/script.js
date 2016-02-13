@@ -22,11 +22,6 @@ $(document).ready(function(){
     if($(window).width() < 800){
         $('.pricing > div > div:nth-of-type(3)').insertAfter($('.pricing > div > div:nth-of-type(1)'));
     }
-
-    $('#animated-thumbnails').lightGallery({
-    thumbnail:true,
-    animateThumb: false,
-    showThumbByDefault: false
 });
 
 });
