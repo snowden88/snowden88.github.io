@@ -296,7 +296,7 @@ header .toggle-menu{
 }
 
 .nb-photo {
-  margin: auto;
+  margin: 0 auto;
   max-width: 800px;
 }
 
