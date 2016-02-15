@@ -300,6 +300,11 @@ header .toggle-menu{
   max-width: 800px;
 }
 
+.mt-photo {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
 .cta{
     background: #fbc93d;
     position: relative;
