@@ -579,19 +579,4 @@ footer .social a:hover{
     footer .social{
         padding-top: 0;
     }
-
-    .contact .input{
-        display: block;
-        width: 100%;
-        float: none;
-    }
-    .contact .input:nth-of-type(odd){
-        margin-right: 0;
-    }
-    .contact label{
-        padding-top: 10px;
-    }
-    .contact label:first-of-type{
-        padding-top: 0;
-    }
 }
